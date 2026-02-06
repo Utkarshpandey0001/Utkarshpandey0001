@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Utkarsh Raj 👋</h1>
-<h3 align="center">Founding Engineer | AI & Web3 Specialist | Mobile Architect</h3>
+<h3 align="center">Founding Engineer | 3x Hackathon Winner | NIT Trichy</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,11 +14,13 @@
 <p align="center">
  🔭 <b>Currently working on:</b> Scaling <a href="https://ridevaam.com">Ridevaam</a> (AI Ride-hailing) <br/>
  🌱 <b>Currently learning:</b> Advanced Cryptography & Post-Quantum Security <br/>
- ⚡ <b>Fun fact:</b> I migrated a production DB from Supabase to Firebase solo.
+ 🏆 <b>Achievements:</b> Winner of Hackbangalore, Transfinite & Hedera Forge
 </p>
 
 <div align="center">
-  
+  <a href="https://leetcode.com/u/Utkarsh_pandey0001/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
+  </a>
   <a href="https://www.linkedin.com/in/utkarsh-raj-pandey-2a2971286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -74,10 +76,15 @@
 
 <br/>
 
+<h2 align="center">⚡ Coding Stats</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/u/Utkarsh_pandey0001/">
+    <img src="https://leetcard.jacoblin.cool/Utkarsh_pandey0001?theme=dracula&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshpandey0001&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
-<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarshpandey0001&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 </div>
