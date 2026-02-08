@@ -21,6 +21,12 @@
   <a href="https://leetcode.com/u/Utkarsh_pandey0001/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
   </a>
+  <a href="https://codeforces.com/profile/Pandeyutkarsh_raj--" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/rajutkarshp5u0l?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" target="_blank" />
+  </a>
   <a href="https://www.linkedin.com/in/utkarsh-raj-pandey-2a2971286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -82,8 +88,14 @@
   <a href="https://leetcode.com/u/Utkarsh_pandey0001/">
     <img src="https://leetcard.jacoblin.cool/Utkarsh_pandey0001?theme=dracula&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
+  <br/>
+  <a href="https://codeforces.com/profile/Pandeyutkarsh_raj--">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pandeyutkarsh_raj--&theme=dracula" alt="Codeforces Stats" />
+  </a>
 </div>
+
 <br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshpandey0001&layout=compact&theme=dracula&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarshpandey0001&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
