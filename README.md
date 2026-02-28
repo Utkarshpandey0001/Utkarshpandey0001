@@ -86,7 +86,7 @@
 
 <div align="center">
   <!-- <a href="https://leetcode.com/u/Utkarsh_pandey0001/"> -->
-    <img src="https://leetcard.jacoblin.cool/Utkarsh_pandey0001?theme=dracula&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <!-- <img src="https://leetcard.jacoblin.cool/Utkarsh_pandey0001?theme=dracula&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" /> -->
   </a>
   <br/>
   <!-- <a href="https://codeforces.com/profile/Pandeyutkarsh_raj--"> -->
