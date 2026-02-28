@@ -85,12 +85,12 @@
 <h2 align="center">⚡ Coding Stats</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Utkarsh_pandey0001/">
+  <!-- <a href="https://leetcode.com/u/Utkarsh_pandey0001/"> -->
     <img src="https://leetcard.jacoblin.cool/Utkarsh_pandey0001?theme=dracula&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/>
-  <a href="https://codeforces.com/profile/Pandeyutkarsh_raj--">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pandeyutkarsh_raj--&theme=dracula" alt="Codeforces Stats" />
+  <!-- <a href="https://codeforces.com/profile/Pandeyutkarsh_raj--"> -->
+    <!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Pandeyutkarsh_raj--&theme=dracula" alt="Codeforces Stats" /> -->
   </a>
 </div>
 
