@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Utkarsh Raj 👋</h1>
-<h3 align="center">Founding Engineer | 3x Hackathon Winner | NIT Trichy</h3>
+<h3 align="center">Founding Engineer | 4x Hackathon Winner | NIT Trichy</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 <p align="center">
  🔭 <b>Currently working on:</b> Scaling <a href="https://ridevaam.com">Ridevaam</a> (AI Ride-hailing) <br/>
  🌱 <b>Currently learning:</b> Advanced Cryptography & Post-Quantum Security <br/>
- 🏆 <b>Achievements:</b> Winner of Hackbangalore, Transfinite & Hedera Forge
+ 🏆 <b>Achievements:</b> Winner of ETHGlobal, Hackbangalore, Transfinite & Hedera Forge
 </p>
 
 <div align="center">
