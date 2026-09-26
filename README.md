@@ -98,12 +98,12 @@ I am an undergraduate at the **National Institute of Technology, Tiruchirappalli
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Utkarshpandey0001&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Utkarsh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshpandey0001&layout=compact&hide_border=true&langs_count=8" alt="Utkarsh's most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utkarshpandey0001&theme=github_dark" alt="Utkarsh's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Utkarshpandey0001&theme=github_dark" alt="Utkarsh's most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utkarshpandey0001&hide_border=true&area=true" width="96%" alt="GitHub contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarshpandey0001&theme=github_dark" width="96%" alt="GitHub activity summary" />
 </div>
 
 ---
