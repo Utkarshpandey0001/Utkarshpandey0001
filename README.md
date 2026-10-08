@@ -7,7 +7,7 @@
     <a href="https://github.com/kubernetes-sigs/headlamp"><img src="https://img.shields.io/badge/Kubernetes_SIGs-Headlamp-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Headlamp" /></a>
     <a href="https://github.com/headlamp-k8s/plugins/tree/main/kueue"><img src="https://img.shields.io/badge/LFX_2026-Kueue_Plugin-0A7EA4?style=flat-square&logo=linuxfoundation&logoColor=white" alt="LFX Kueue Plugin" /></a>
     <a href="https://www.nitt.edu/"><img src="https://img.shields.io/badge/NIT-Trichy-8B0000?style=flat-square" alt="NIT Trichy" /></a>
-    <img src="https://img.shields.io/badge/Merged_Upstream_PRs-19+-22C55E?style=flat-square&logo=github" alt="19 plus merged upstream PRs" />
+    <img src="https://img.shields.io/badge/Merged_Upstream_PRs-26-22C55E?style=flat-square&logo=github" alt="26 merged upstream PRs" />
   </p>
 
   <p>
@@ -30,17 +30,21 @@ I am an undergraduate at the **National Institute of Technology, Tiruchirappalli
 
 | Ecosystem | Contributions |
 |---|---|
-| **[Kubernetes SIGs — Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AUtkarshpandey0001)** | **12 merged PRs** across workload diagnostics, advanced search, log filtering, multi-Pod streaming performance, WebSocket cleanup, Kubernetes events, accessibility, and namespace-safe Pod metrics. |
-| **[Headlamp Kueue Plugin](https://github.com/headlamp-k8s/plugins/tree/main/kueue)** | Built the plugin foundation and resource experience for `ResourceFlavor`, `ClusterQueue`, `LocalQueue`, and `Workload`, including typed CRD models, routes, list/detail views, status formatting, tests, and documentation. |
-| **[Inspektor Gadget Headlamp Plugin](https://github.com/inspektor-gadget/headlamp-plugin/pulls?q=is%3Apr+author%3AUtkarshpandey0001)** | Improved Kubernetes-first gadget table ordering and worked on high-frequency stream performance, connection resilience, scoped Pod queries, and namespace-safe port forwarding. |
-| **[Alby Hub](https://github.com/getAlby/hub/pulls?q=is%3Apr+author%3AUtkarshpandey0001) & [Alby Go](https://github.com/getAlby/go/pulls?q=is%3Apr+author%3AUtkarshpandey0001)** | **3 merged PRs** improving Nostr transaction safety, suggested-app assets, and mobile wallet layout behaviour. |
+| **[Kubernetes SIGs — Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **12 merged PRs** across workload diagnostics, advanced search, log filtering, multi-Pod streaming performance, WebSocket cleanup, Kubernetes events, accessibility, and namespace-safe Pod metrics. |
+| **[Headlamp Kueue Plugin](https://github.com/headlamp-k8s/plugins/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **7 merged PRs** building the plugin from its foundation through `ResourceFlavor`, `ClusterQueue`, `LocalQueue`, `Workload`, and `Cohort` views, relational navigation, tests, documentation, and the first Artifact Hub release. |
+| **[Kubernetes Enhancements](https://github.com/kubernetes/enhancements/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **1 merged PR** preparing KEP-5440 for stable graduation in Kubernetes v1.38, including graduation criteria, test coverage, and production-readiness updates. |
+| **[Keploy](https://github.com/keploy/keploy/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **2 merged PRs** fixing Postman folder imports and strengthening OpenAPI array-schema type regression coverage. |
+| **[Inspektor Gadget Headlamp Plugin](https://github.com/inspektor-gadget/headlamp-plugin/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **1 merged PR** improving Kubernetes-first gadget table ordering so cluster context is easier to scan. |
+| **[Alby Hub](https://github.com/getAlby/hub/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged) & [Alby Go](https://github.com/getAlby/go/pulls?q=is%3Apr+author%3AUtkarshpandey0001+is%3Amerged)** | **3 merged PRs** improving Nostr transaction safety, suggested-app assets, and mobile wallet layout behaviour. |
 
 ## Selected upstream work
 
 - **Kubernetes troubleshooting:** [Added Pod and workload diagnostics to Headlamp](https://github.com/kubernetes-sigs/headlamp/pull/5487), summarising container failures, conditions, events, restarts, and unhealthy owned Pods.
 - **Kubernetes log observability:** [Added log severity filtering](https://github.com/kubernetes-sigs/headlamp/pull/5338) and [optimised multi-Pod log aggregation](https://github.com/kubernetes-sigs/headlamp/pull/5320) for high-throughput streams.
 - **Developer experience:** [Added reusable saved searches](https://github.com/kubernetes-sigs/headlamp/pull/5665) to Headlamp's Advanced Search.
-- **Kueue UI:** Added [the initial plugin and ResourceFlavor support](https://github.com/headlamp-k8s/plugins/pull/832), [ClusterQueue views](https://github.com/headlamp-k8s/plugins/pull/864), [LocalQueue views](https://github.com/headlamp-k8s/plugins/pull/915), and [Workload views](https://github.com/headlamp-k8s/plugins/pull/924).
+- **Kueue UI:** Built the plugin from [its initial ResourceFlavor support](https://github.com/headlamp-k8s/plugins/pull/832) through [ClusterQueue](https://github.com/headlamp-k8s/plugins/pull/864), [LocalQueue](https://github.com/headlamp-k8s/plugins/pull/915), [Workload](https://github.com/headlamp-k8s/plugins/pull/924), and [Cohort](https://github.com/headlamp-k8s/plugins/pull/1004) views; then added [cross-resource navigation](https://github.com/headlamp-k8s/plugins/pull/1131) and [the first Artifact Hub release](https://github.com/headlamp-k8s/plugins/pull/1112).
+- **Kubernetes API evolution:** [Prepared KEP-5440 for stable graduation in Kubernetes v1.38](https://github.com/kubernetes/enhancements/pull/6307), refining graduation criteria, test coverage, and production-readiness documentation.
+- **Developer tooling reliability:** [Fixed Postman folder imports in Keploy](https://github.com/keploy/keploy/pull/4436) and [strengthened OpenAPI array-schema regression coverage](https://github.com/keploy/keploy/pull/4450).
 - **Kubernetes observability UX:** [Improved Inspektor Gadget field ordering](https://github.com/inspektor-gadget/headlamp-plugin/pull/82) so Kubernetes context appears first in gadget tables.
 - **Lightning ecosystem reliability:** [Prevented invalid Nostr zap data from crashing Alby Hub](https://github.com/getAlby/hub/pull/2033) and [fixed Alby Go's mobile receive-button layout](https://github.com/getAlby/go/pull/422).
 
@@ -64,9 +68,9 @@ I am an undergraduate at the **National Institute of Technology, Tiruchirappalli
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://ridevaam.com">Ridevaam</a></h3>
-      <p>Real-time Android and iOS ride-hailing platform with dynamic pricing, geospatial driver matching, automated driver and vehicle verification, payments, and operational monitoring.</p>
-      <p><code>React Native</code> <code>Firebase</code> <code>Node.js</code> <code>Docker</code> <code>Stripe</code></p>
+      <h3><a href="https://github.com/kubernetes-sigs/headlamp">Headlamp</a></h3>
+      <p>Kubernetes web UI contributions spanning workload diagnostics, advanced search, log observability, streaming performance, event handling, accessibility, and resource metrics.</p>
+      <p><code>Kubernetes</code> <code>TypeScript</code> <code>React</code> <code>WebSockets</code> <code>Testing</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Utkarshpandey0001/Cloud-code">Cloud-Code</a></h3>
@@ -81,9 +85,9 @@ I am an undergraduate at the **National Institute of Technology, Tiruchirappalli
       <p><code>MongoDB Vector Search</code> <code>React</code> <code>Node.js</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Utkarshpandey0001/CedraMarket">CedraNexus</a></h3>
-      <p>Decentralised AI art marketplace combining smart-contract ownership, marketplace transactions, IPFS storage, and AI-generated artwork.</p>
-      <p><code>Next.js</code> <code>Move</code> <code>IPFS</code> <code>Gemini API</code></p>
+      <h3><a href="https://github.com/headlamp-k8s/plugins">Headlamp Plugins</a></h3>
+      <p>Kubernetes extension work centered on the Kueue plugin, with typed CRD models, resource views, queue relationships, RBAC-aware navigation, tests, documentation, and release packaging.</p>
+      <p><code>Kueue</code> <code>CRDs</code> <code>TypeScript</code> <code>React</code> <code>Artifact Hub</code></p>
     </td>
   </tr>
 </table>
