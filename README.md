@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Utkarsh%20Raj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open%20Source%20%7C%20Kubernetes%20%7C%20Distributed%20Systems&descAlignY=56&descSize=18" width="100%" alt="Utkarsh Raj banner" />
 
-  <h3>LFX Mentee @ Headlamp · Kubernetes Contributor · Founding Software Engineer</h3>
+  <h3>LFX Mentee @ Headlamp · Kubernetes Contributor · Software Engineer</h3>
 
   <p>
     <a href="https://github.com/kubernetes-sigs/headlamp"><img src="https://img.shields.io/badge/Kubernetes_SIGs-Headlamp-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Headlamp" /></a>
